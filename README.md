@@ -1,11 +1,8 @@
 # 42-born2beroot
-<p align="center">Born2beroot how to proceed</p>
+<p align="center">How I did my "Born2beroot" project.</p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rphlr/42-born2beroot?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/rphlr/42-born2beroot?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rphlr/42-born2beroot?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rphlr/42-born2beroot?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-born2beroot?color=green" />
 </p>
 
@@ -22,6 +19,9 @@
 ## Table of Contents
 1. [Installation step](#installation)
 	- [How to proceed](#how-to-proceed)
+		- [First steps](#first-steps)
+		- [ISO file installation](#iso-file-installation)
+		- [VM installation](#start-the-vm)
 2. [*sudo*](#sudo)
 	- [Step 1: Installing *sudo*](#step-1-installing-sudo)
 	- [Step 2: Adding User to *sudo* Group](#step-2-adding-user-to-sudo-group)
@@ -57,24 +57,39 @@ You can download the latest *netinst* debian image (a small CD image that contai
 
 ### How to proceed
 
+I've done the bonus parts too.
+
+#### First steps
+
+First, let's create a new virtual machine.
 ![how-to-proceed_image](how-to-proceed_images/0001.png)
 
+Install it in you folder in the "sgoinfre" for having it on any computer of the school or "goinfre" for local (much faster).
 ![how-to-proceed_image](how-to-proceed_images/0002.png)
 
+Let the memory size as default.
 ![how-to-proceed_image](how-to-proceed_images/0003.png)
 
+Create a virtual hard disk.
 ![how-to-proceed_image](how-to-proceed_images/0004.png)
 
+Choose VirtualBox Disk Image.
 ![how-to-proceed_image](how-to-proceed_images/0005.png)
 
+Choose dynamically allocated.
 ![how-to-proceed_image](how-to-proceed_images/0006.png)
 
+Choose the size of your VM (I let 12GB) and create it.
 ![how-to-proceed_image](how-to-proceed_images/0007.png)
 
+Click on settings button
 ![how-to-proceed_image](how-to-proceed_images/0008.png)
 
+#### ISO file installation
+Click on storage.
 ![how-to-proceed_image](how-to-proceed_images/0009.png)
 
+Click on the empty controller and the disk icon and follow theses steps.
 ![how-to-proceed_image](how-to-proceed_images/0010.png)
 
 ![how-to-proceed_image](how-to-proceed_images/0011.png)
@@ -85,12 +100,15 @@ You can download the latest *netinst* debian image (a small CD image that contai
 
 ![how-to-proceed_image](how-to-proceed_images/0014.png)
 
+#### Start the VM
 ![how-to-proceed_image](how-to-proceed_images/0015.png)
 
 ![how-to-proceed_image](how-to-proceed_images/0016.png)
 
+You can scale the windows for having it a little bit bigger.
 ![how-to-proceed_image](how-to-proceed_images/0017.png)
 
+Follow theses steps for the installation with bonuses (you can [contact me](mailto:rrouille@student.42lausanne.ch) if you still have some question to how to proceed).
 ![how-to-proceed_image](how-to-proceed_images/0018.png)
 
 ![how-to-proceed_image](how-to-proceed_images/0019.png)
