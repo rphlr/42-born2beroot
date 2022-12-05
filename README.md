@@ -7,7 +7,9 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-born2beroot?color=green&logo=github&logoColor=green&style=flat-square">
 </p>
 
----
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## 💡 About the project
 
@@ -15,7 +17,9 @@
 
 	This project is not finished yet !
 
----
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## Table of Contents
 1. [Installation step](#installation)
@@ -51,6 +55,11 @@
 	- [File Transfer Protocol *(FTP)*](#3-file-transfer-protocol-ftp)
 	   - [Step 1: Installing & Configuring FTP](#step-1-installing--configuring-ftp)
 	   - [Step 2: Connecting to Server via FTP](#step-2-connecting-to-server-via-ftp)
+
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## Installation
 At the time of writing, the latest stable version of [Debian](https://www.debian.org) is *Debian 11 Bullseye*.
@@ -316,6 +325,11 @@ Follow theses steps for the installation with bonuses (you can [contact me](mail
 
 ![how-to-proceed_image](how-to-proceed_images/0120.png)
 
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## *sudo*
 
 ### Step 1: Installing *sudo*
@@ -476,6 +490,11 @@ $ logout
 >```
 >$ exit
 >```
+
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## User Management
 
