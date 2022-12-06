@@ -365,9 +365,19 @@ Follow theses steps for the installation with bonuses (you can [contact me](mail
 
 ![how-to-proceed_image](how-to-proceed_images/0140.png)
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 # And the result is :
 
 ![how-to-proceed_image](how-to-proceed_images/0141.png)
+
+Don't forget to save a snapshot after this step to save the machine.
+
+![how-to-proceed_image](how-to-proceed_images/0142.png)
+
+![how-to-proceed_image](how-to-proceed_images/0143.png)
 
 
 <div align="center" style="text-align:center">
