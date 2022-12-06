@@ -325,6 +325,26 @@ Follow theses steps for the installation with bonuses (you can [contact me](mail
 
 ![how-to-proceed_image](how-to-proceed_images/0120.png)
 
+![how-to-proceed_image](how-to-proceed_images/0121.png)
+
+![how-to-proceed_image](how-to-proceed_images/0122.png)
+
+![how-to-proceed_image](how-to-proceed_images/0123.png)
+
+![how-to-proceed_image](how-to-proceed_images/0124.png)
+
+![how-to-proceed_image](how-to-proceed_images/0125.png)
+
+![how-to-proceed_image](how-to-proceed_images/0126.png)
+
+![how-to-proceed_image](how-to-proceed_images/0127.png)
+
+![how-to-proceed_image](how-to-proceed_images/0128.png)
+
+![how-to-proceed_image](how-to-proceed_images/0129.png)
+
+![how-to-proceed_image](how-to-proceed_images/0130.png)
+
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
