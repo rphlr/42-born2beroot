@@ -6,7 +6,7 @@
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/rphlr/42-born2beroot?color=green&logo=Codecademy&logoColor=green&style=flat-square">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rphlr/42-born2beroot?color=green&logo=github&logoColor=green&style=flat-square">
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-born2beroot?color=green&logo=github&logoColor=green&style=flat-square">
-</p>
+</p> 
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
@@ -443,6 +443,10 @@ Don't forget to save a snapshot after this step to save the machine.
 
 ![how-to-proceed_image](how-to-proceed_images/0143.png)
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 # **SUDO**
 
 ## Step 1: Installing *sudo*
@@ -531,6 +535,10 @@ To set *sudo* paths to `/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:
 Defaults        secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
 ```
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 # **SSH**
 
 ## Step 1: Installing & Configuring SSH
@@ -612,6 +620,10 @@ Alternatively, terminate SSH session.
 ```
 $ exit
 ```
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 # **User Management**
 
@@ -731,6 +743,10 @@ Verify whether user was successfully added to *user42* group.
 $ getent group user42
 ```
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 # **cron**
 
 ## Setting Up a *cron* Job
@@ -747,6 +763,10 @@ Check *root*'s scheduled *cron* jobs.
 ```
 $ sudo crontab -u root -l
 ```
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 # **Bonus**
 
@@ -1348,6 +1368,10 @@ You can use the **`crontab -e`** command to edit your crontab and add or modify 
 ### WordPress site
 
 ### FTP service
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 # My B2BR project evaluation
 
